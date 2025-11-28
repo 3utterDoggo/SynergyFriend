@@ -1,0 +1,14 @@
+{
+  "name": "SynergyFriend",
+  "package": "SynergyFriend",
+  "author": "zom",
+  "version": "0.1",
+  "config": {
+    "chrome_extension_path": "",
+    "chrome_extension_id": "",
+    "anki_target_deck": ""
+  },
+  "mod": 0,
+  "min_point_version": 0,
+  "max_point_version": 0
+}
